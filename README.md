@@ -36,8 +36,8 @@ npm install
 
 ### 3 - Inicie o banco:
 ```sh
-ts-node src/database/InitDataBase.ts
-ts-node src/database/insertInDataBase.ts
+npm run init-db
+npm run insert-db
 ```
 ### 3 - Execute os testes:
 ```sh
