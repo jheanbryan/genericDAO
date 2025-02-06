@@ -20,7 +20,7 @@ Este projeto é um sistema de gerenciamento de vendas.
 ### 1 - Clone o Repositório:
 
 ```sh
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/jheanbryan/genericDAO.git
 ```
 
 ### 2 - Instale as dependencias:
